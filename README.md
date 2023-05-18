@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  I am Computer Science Student at CIn - Federal University of Pernambuco
+  I am a Computer Science Student at CIn - Federal University of Pernambuco
 </p>
 <div>
   <a href="https://github.com/VS-Lucas">
