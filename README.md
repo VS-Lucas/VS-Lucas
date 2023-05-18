@@ -9,13 +9,13 @@
   
   <div>
     Currently studying and working with
-    <a href="legacy.reactjs.org/">
+    <a href="legacy.reactjs.org/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32"/>
     </a>
-    <a href="typescriptlang.org/docs/">
+    <a href="typescriptlang.org/docs/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>
     </a>
-    <a href="tailwindcss.com/docs/installation">
+    <a href="tailwindcss.com/docs/installation" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32"/>
     </a>
   </div>
@@ -26,36 +26,35 @@
   </div>
     
   <div>
-    <a href="python.org/">
+    <a href="python.org/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32">
     </a>
-    <a href="flask.palletsprojects.com">
+    <a href="flask.palletsprojects.com" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="32" height="32"/>
     </a>
-    <a href="vuejs.org/guide/introduction.html">
+    <a href="vuejs.org/guide/introduction.html" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32"/>
     </a>
-    <a href="w3schools.com/tags/">
+    <a href="w3schools.com/tags/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32"/>
     </a>
-    <a href="w3schools.com/cssref/index.php">
+    <a href="w3schools.com/cssref/index.php" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32"/>
     </a>
-    <a href="tailwindcss.com/docs/installation">
+    <a href="tailwindcss.com/docs/installation" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32"/>
     </a>
-    <a href="en.cppreference.com/w/">
+    <a href="en.cppreference.com/w/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"/>
     </a>
-    <a href="www.oracle.com/">
+    <a href="www.oracle.com/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="32" height="32"/>
     </a>
-    <a href="legacy.reactjs.org/">
+    <a href="legacy.reactjs.org/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32"/>
     </a>
-    <a href="typescriptlang.org/docs/">
+    <a href="typescriptlang.org/docs/" target=”_blank”>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>
     </a>
   </div>
-    
 </div>
