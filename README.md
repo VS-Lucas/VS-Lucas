@@ -26,7 +26,7 @@
   </div>
 
   <div>
-    <a href="python.org/" target="_blank">
+    <a href="https://www.python.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32">
     </a>
     <a href="flask.palletsprojects.com" target="_blank">
