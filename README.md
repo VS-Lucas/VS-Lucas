@@ -24,6 +24,8 @@
     <a href="https://github.com/VS-Lucas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VS-Lucas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </div>
+    
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VS-Lucas&theme=react&size_weight=0.5&count_weight=0.5)](https://github.com/VS-Lucas/github-readme-stats) -->
 
   <div>
     <a href="https://www.python.org/" target="_blank">
