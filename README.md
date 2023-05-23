@@ -12,8 +12,8 @@
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32"/>
     </a>
-    <a href="https://typescriptlang.org/docs/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>
+    <a href="https://nextjs.org/docs" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="32" height="32"/>
     </a>
     <a href="https://www.tailwindcss.com/docs/installation" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32"/>
@@ -53,8 +53,8 @@
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32"/>
     </a>
-    <a href="https://typescriptlang.org/docs/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>
+    <a href="https://nextjs.org/docs" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="32" height="32"/>
     </a>
   </div>
 </div>
