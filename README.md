@@ -9,14 +9,8 @@
     
   <div>
     Currently studying and working with
-    <a href="https://nextjs.org/docs" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="32" height="32"/>
-    </a>
-    <a href="https://www.w3schools.com/tags/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32"/>
-    </a>
-    <a href="https://www.tailwindcss.com/docs/installation" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32"/>
+    <a href="https://docs.flutter.dev/get-started/install" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32" height="32"/>
     </a>
   </div>
 
@@ -54,9 +48,6 @@
     </a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32"/>
-    </a>
-    <a href="https://nextjs.org/docs" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="32" height="32"/>
     </a>
   </div>
 </div>
