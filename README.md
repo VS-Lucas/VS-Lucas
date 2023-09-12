@@ -9,8 +9,11 @@
     
   <div>
     Currently studying and working with
-    <a href="https://docs.flutter.dev/get-started/install" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32" height="32"/>
+    <a href="https://reactnative.dev/docs/getting-started" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32"/>
+    </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="32" height="32"/>
     </a>
   </div>
 
